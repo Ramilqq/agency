@@ -1,0 +1,15 @@
+<?php
+
+declare(strict_types=1);
+
+namespace Biplane\YandexDirect\Api\V5\Contract;
+
+/**
+ * Auto-generated code.
+ */
+class ScopeEnum
+{
+    public const SEARCH = 'SEARCH';
+
+    public const NETWORK = 'NETWORK';
+}
